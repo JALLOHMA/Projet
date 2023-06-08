@@ -93,7 +93,7 @@ li {
   .separator {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     height: 170px;
     background-color: #fff;
   }
@@ -109,6 +109,7 @@ li {
   .word {
     text-align: center;
     font-size: 10px;
+     
   }
 
   .MOI {
